@@ -10,7 +10,7 @@ Arduino IDE
 DHT sensor library by Adafruit
 
 ## Authors
-Chris Huynh @christghuynh
-Henry Cai @
-Jessica Yang @burkity
-William Kim 
+Chris Huynh @christghuynh, 
+Henry Cai henryc08@, 
+Jessica Yang @burkity, 
+William Kim
